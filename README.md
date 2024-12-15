@@ -4,6 +4,6 @@
 |   <   |   I'm Ahmed Khalid (AKA) { Nando }
 |  \_/  |   --------------------------------->  
  \_____/    .. Programmer / Software Developer 
-  |   |       ... / CyBER->Sec / Pentester
+  |   |       ... / Pentester (0x0)
  /     \          [........%100........]  
 </pre>
