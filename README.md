@@ -1,5 +1,7 @@
 # 💫About Me :
-I'm back-end Freelancer focus on Laravel and Golang  
+
+I'm a software developer with a passion for building innovative solutions. 
+With experience in multiple programming languages, I enjoy collaborating with others to bring projects to life.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandoz0x0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/n4nd0x0) 
@@ -17,8 +19,3 @@ I'm back-end Freelancer focus on Laravel and Golang
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=nando-z&icon=1&color=0)](https://visitcount.itsvg.in)
