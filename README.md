@@ -13,9 +13,6 @@ With experience in multiple programming languages, I enjoy collaborating with ot
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nando-z&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nando-z&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=nando-z&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
