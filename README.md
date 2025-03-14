@@ -1,5 +1,5 @@
-# 💫 About Me
-Hey there! 👋 I’m a Full-stack Developer and Security Researcher obsessed with crafting innovative, secure, and high-performance solutions. I live for the thrill of mastering new tech and turning wild ideas into reality. Ready to collaborate and build something epic? Let’s do this!
+<h4 align="left">Hey there! 👋 I’m a Full-stack Developer and Security Researcher obsessed with crafting innovative, secure, and high-performance solutions. I live for the thrill of mastering new tech and turning wild ideas into reality. Ready to collaborate and build something epic? Let’s do this!</h4>
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif?cid=790b7611gx0r2nmhi5y3f945otwkm9rvjx1xmcgf9lv3chhh&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
@@ -19,7 +19,9 @@ Hey there! 👋 I’m a Full-stack Developer and Security Researcher obsessed wi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
 ###
