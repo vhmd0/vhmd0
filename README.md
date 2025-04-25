@@ -1,4 +1,5 @@
-<h3 align="left">Hey there! 👋 I’m a Full-stack Developer and Security Researcher obsessed with crafting innovative, secure, and high-performance solutions. I live for the thrill of mastering new tech and turning wild ideas into reality. Ready to collaborate and build something epic? Let’s do this!</h3>
+<h3 align="left">👋 Hey! I'm Ahmed, a passionate backend developer with 2+ years of experience. I build APIs, websites, and dashboards with Node.js, Laravel, and Golang. I focus on clean code, fast delivery, and secure solutions. Let's build something great! 🚀
+!</h3>
 
 ###
 
@@ -26,9 +27,10 @@
 </div>
 
 ###
+<!--   
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=nando-z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=nando-z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"height="150"alt="languages graph"/>
 </div>
-
+-->
 ###
