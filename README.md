@@ -1,18 +1,6 @@
-
 <br clear="both">
 
 <h4 align="left">Backend dev who enjoys building solid systems, breaking complex problems, and sipping strong coffee<br>23 Y.O</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nando-z&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=nando-z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-z&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nando-z&area=false" height="150" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -52,6 +40,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nando-z/nando-z/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nando-z&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="201" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-z&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nando-z&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6&order=3" height="153" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nando-z&radius=16&theme=dracula&area=true&order=5" height="150" alt="activity-graph graph"  />
+</div>
 
 ###
