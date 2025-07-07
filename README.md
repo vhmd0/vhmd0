@@ -7,5 +7,5 @@
 
 ###  Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,postgres,docker,nestjs,ts,js,tailwind,nodejs,postman,adonis,angular,go,github,bash,php&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,postgres,docker,nestjs,ts,js,tailwind,nodejs,postman,github,bash&perline=8)](https://skillicons.dev)
 
