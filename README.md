@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Ahmed Khalid</h1>
-<h3 align="center">Backend Engineer | Java Specialist | API Craftsman ☕</h3>
+<h3 align="center">Backend Engineer | Java Specialist | API Craftsman </h3>
 <p align="left">
   
 ###  Tech Stack & Tools
