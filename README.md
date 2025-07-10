@@ -1,5 +1,5 @@
 # 👋 Hey there!
-<p><b>I'm Ahmed Khalid (he/they)</b> - I'm fullstack developer , api developer , application security ,I'm intersted in development , learn new technologys,   </p>
+<p><b>Ahmed Khalid (he/him)</b> is a dedicated Full-stack and API Developer, specializing in crafting efficient and secure web applications. My passion lies in mastering new technologies and applying best practices in application security to deliver high-quality, scalable solutions.</p>
 
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,react,bootstrap,java,spring,postgres,mongo,prisma,docker,nest,php,postman&)](https://skillicons.dev)
