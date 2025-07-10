@@ -1,8 +1,21 @@
-<h1 align="center">👋 Hey there! I'm Ahmed Khalid</h1>
-<h3 align="center">Backend Engineer | Java Specialist | API Craftsman </h3>
-<p align="left">
-  
-###  Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,postgres,docker,nestjs,ts,js,tailwind,nodejs,postman,github&perline=8)](https://skillicons.dev)
+
+# 👋 Hey there!
+<p>I'm Ahmed Khalid (he/they) - I'm fullstack developer , api developer , application security ,I'm intersted in development , learn new technologys,   </p>
+
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,react,bootstrap,java,spring,postgres,mongo,prisma,docker,nest,php,postman&)](https://skillicons.dev)
+
+
+ <a href=""><img alt="Laravel Version" src="https://img.shields.io/badge/laravel-10.x-FF2D20.svg?&logo=laravel"></a>
+ 
+ <a href=""><img alt="Laravel Version" src="https://img.shields.io/badge/laravel-10.x-FF2D20.svg?&logo=laravel"></a>
+ 
+  <a href=""><img alt="Laravel Version" src="https://img.shields.io/badge/currently-online-fd.svg?&logo=vscode"></a>
+ 
+## GitHub Stats ✨
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nando-z&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nando-z&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
