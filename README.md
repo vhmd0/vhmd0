@@ -2,7 +2,7 @@
 <p><b>Ahmed Khalid (he/him)</b> is a dedicated Full-stack and API Developer, specializing in crafting efficient and secure web applications. My passion lies in mastering new technologies and applying best practices in application security to deliver high-quality, scalable solutions.</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,angular,bootstrap,dotnet,spring,postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vite,bootstrap,dotnet,spring,postgres,docker,mongo)](https://skillicons.dev)
 
 
 
