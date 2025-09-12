@@ -17,15 +17,6 @@ I build secure, scalable APIs using **ASP.NET Core**, with a strong focus on mic
 
 ---
 
-## 🔍 What I Do
-
-- Build RESTful APIs with clean architecture  
-- Design microservices with secure auth (JWT, OAuth2)  
-- Automate dev/staging with Docker  
-- Optimize backend performance and data flow  
-
----
-
 ## 📂 Projects
 
 Check out my work on [GitHub → github.com/vhmd0](https://github.com/vhmd0)
