@@ -17,9 +17,7 @@ I build secure, scalable APIs using **ASP.NET Core**, with a strong focus on mic
 
 Check out my work on [GitHub → github.com/vhmd0](https://github.com/vhmd0)
 
-## Note :
-
-# My projects are private right now 
+# Note 🔴  My projects are private right now 
   
 ## 💬 Let’s Connect
 
