@@ -6,7 +6,7 @@ I build secure, scalable APIs using **ASP.NET Core**, with a strong focus on mic
 
 ## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,rider,postgres,mongo,kafka,docker,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,rider,postgres,mongo,kafka,docker,github)](https://skillicons.dev)
 
 - **Languages**: C#, SQL  
 - **Framework**: ASP.NET Core  
