@@ -8,8 +8,8 @@ I build secure, scalable APIs using **ASP.NET Core**, with a strong focus on mic
 
 [![Skills](https://skillicons.dev/icons?i=dotnet,visualstudio,rider,postgres,mongo,kafka,docker,github)](https://skillicons.dev)
 
-- **Languages**: C#, SQL  
-- **Framework**: ASP.NET Core  
+- **Languages**: C#, SQL, Typescript
+- **Framework**: ASP.NET Core , Expressjs  
 - **Databases**: PostgreSQL, MongoDB, SQL Server
 - **Tools**: Docker, Kafka, GitHub Actions  
 
