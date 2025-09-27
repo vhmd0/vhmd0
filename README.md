@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahmed Khalid
 
-**Backend API Developer | .NET Core Specialist | Microservices Architect**
+**Backend API Developer | .NET Core Specialist
 
-I build secure, scalable APIs using **ASP.NET Core**, with a strong focus on microservices, Dockerized workflows, and clean architecture. While I collaborate with full-stack teams, my expertise is strictly backend.
+I build secure, scalable APIs using **ASP.NET**, with a strong focus on microservices, Dockerized workflows, and clean architecture. While I collaborate with full-stack teams, my expertise is strictly backend.
 
 ## 🛠️ Tech Stack
 
